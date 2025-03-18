@@ -1,8 +1,14 @@
 {
   "login": "thcaquet",
   "override": {
-    "login": {
-      "prefix": "tours de crane... "
-    }
+        "badges": [
+      {
+        "text": "tour de crane... ",
+        "background": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    ]
   }
 }
